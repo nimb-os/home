@@ -20,3 +20,4 @@ Some initial concepts we have include:
   - deploy directories as containers through the context menu
     - either docker local, fargate, vagrant, ec2, etc.
 - Streamable desktop environment from cloud instance
+- Touchbar support for all the people stuck on a newer MBP
