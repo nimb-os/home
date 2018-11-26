@@ -6,7 +6,7 @@ This repository is intended to be a central hub for organizing and executing thi
 
 ## Introduction
 
-NimbOS is a project to generate a flavor of linux that is preferable to OS X as a desktop environment for developing and deploying cloud-based applications.
+NimbOS is a project to generate a flavor of linux that is preferable to OS X as a desktop environment for developing and deploying cloud-based applications. There will always be a free, open-source community edition, though we may try to do an enterprise edition later that we could charge for. We are currently envisioning the community edition as pay-what-you-want (including free). The proceeds will go into a general fund that can be used to pay for fees and costs associated with the project, distributed by way of democratically approved proposals. Long term, it would be cool to have to full time staff that work on this, and they presumably would need salaries.
 
 Some initial concepts we have include:
 
