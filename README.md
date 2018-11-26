@@ -19,3 +19,4 @@ Some initial concepts we have include:
   - folders symlinked to bucket storage
   - deploy directories as containers through the context menu
     - either docker local, fargate, vagrant, ec2, etc.
+- Streamable desktop environment from cloud instance
