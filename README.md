@@ -2,7 +2,7 @@
 
 ## A Central Hub
 
-This repository is intended to be a central hub for organizing and executing this project. Proposals that don't match an existing repo should be created as issues here. The wiki of this repo should be used for building a general knowledge base about navigating this project.
+This repository is intended to be a central hub for organizing and executing this project. Proposals that don't match an existing repo, or require spending money from the general fund, should be created as issues here. The wiki of this repo should be used for building a general knowledge base about navigating this project.
 
 ## Introduction
 
